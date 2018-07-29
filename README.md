@@ -1,4 +1,4 @@
-# Smart-Dots
+# Smart Dots
 A genetic algorithm that attempts to get a swarm of dots from the start point to the end goal in the least number of steps
 
 This code is a Python implementation of the "Smart Dots" example/tutorial done by Code Bullet. He used the
